@@ -1,0 +1,13 @@
+jpg
+jpeg
+png
+gif
+xcf
+eps
+wav
+mp3
+mp4
+avi
+mpeg
+mpg
+mkv
